@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Parki-Zone/client-side/components">
+  <a href="https://github.com/ghassenloukil/README">
     <img src="logo.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -111,7 +111,7 @@ Home Screen Here
 PARKIZONE Uses Npm For Client Side Application and Server Side .
 * [npm](https://nodejs.org/en/)
   ```sh
-  npm install 
+  npm install npm@latest -g
   ```
 
   ```
@@ -160,7 +160,7 @@ Future Features Here
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git add ./PARKIZONEFeature`)
+2. Create your Feature Branch (`git checkout -b feature/PARKIZONEFeature`)
 3. Commit your Changes (`git commit -m 'Add some PARKIZONEFeature'`)
 4. Push to the Branch (`git push origin feature/PARKIZONEFeature`)
 5. Open a Pull Request
