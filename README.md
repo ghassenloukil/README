@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Parki-Zone/client-side/">
+  <a href="https://github.com/Parki-Zone/client-side/components">
     <img src="logo.png" alt="Logo" width="150" height="150">
   </a>
 
